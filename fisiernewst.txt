@@ -1,0 +1,6 @@
+1;gigi;1
+2;a;2
+3;lala;2
+4;urs;3
+5;gigi;2
+6;lala;5
